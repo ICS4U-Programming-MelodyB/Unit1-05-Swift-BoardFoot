@@ -2,10 +2,10 @@
 // This program calculates the length for one
 // board with given width and height from user.
 //
-//  Created by Sarah Andrew
+//  Created by Melody Berhane
 //  Created on 2023-03-04
 //  Version 1.0
-//  Copyright (c) 2023 Sarah. All rights reserved.
+//  Copyright (c) 2023 Melody. All rights reserved.
 import Foundation
 
 
